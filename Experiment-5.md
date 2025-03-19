@@ -14,7 +14,7 @@ Use the ps, top, and kill commands to monitor and manage processes, applying app
 ![image](https://github.com/user-attachments/assets/245dcab6-16ca-4c5f-8ab7-908249c9e159)
 ![image](https://github.com/user-attachments/assets/f27001ce-7ca1-4b4c-9171-13fb4d0a5347)
 
-Commands used-
+
 
 
 
